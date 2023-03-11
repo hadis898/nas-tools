@@ -5,6 +5,10 @@
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/tzsm11/nas-tools/main/nas-tools.sh)
 ```
+```
+bash <(curl -sL https://ghproxy.com/https://raw.githubusercontent.com/BPG8780/nas/main/nas-tools.sh)
+```
+
 功能介绍：
 -----------------------------------------
 1. 安装Nas-tools
